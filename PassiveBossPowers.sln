@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassiveBossPowers", "PassiveBossPowers\PassiveBossPowers.csproj", "{AE6CCF02-F965-4C28-9DEC-08C69D3C93AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE6CCF02-F965-4C28-9DEC-08C69D3C93AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE6CCF02-F965-4C28-9DEC-08C69D3C93AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE6CCF02-F965-4C28-9DEC-08C69D3C93AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE6CCF02-F965-4C28-9DEC-08C69D3C93AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88A48EA6-4D7D-4F04-AB2D-99726C56727B}
+	EndGlobalSection
+EndGlobal
